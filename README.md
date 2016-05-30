@@ -1,5 +1,5 @@
 # FreeCodeCamp
-Free Code Camp is anopen source where people learn to code.
+Free Code Camp is an open source community where people learn to code.
 
 Current projects involve:
 Front End Development
